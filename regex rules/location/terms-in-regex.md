@@ -50,3 +50,18 @@ payment_regex_words = ['a check', 'the check', "cheque",
 '^.*(a check|the check|cheque|debit card|check or cash|cash|credit card|paypal|venmo|deposit|the contract and|you can pay|do i pay|can i pay|should i pay|do we pay|can we pay|should we pay|pay me|pay you|pay us|do you take|do you accept|payment|invoice).*$'
 
 display_info_multiple(payment_regex_words, 'is_payment')
+
+# Considering
+
+# Rejection
+
+# Follow-up
+
+- read the Regex book for like (1h)
+- come up with improvements (2h)
+- 
+
+
+
+
+
