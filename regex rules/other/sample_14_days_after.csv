@@ -1,0 +1,470 @@
+,bid_id,bid_id_header,message_timestamp,message_sender,pii_cleaned_message,Note,category,agent1_labels,agent2_labels,agent3_labels,majority_vote,union_vote,message,is_follow_up,time_since_last_message,days_since_last_message,hours_since_last_message,is_first_message,contains_regex,predicted
+1300,59056073,,2017-11-10 20:42:57.979684,Pro,"Hi, [PERSON_NAME]!  Have you found a cake vendor yet?  If so, let us know so we can tailor our communications appropriately.  If not, let us know you the best of delicious cake and great service!
+To schedule your tasting, click the link below.
+https://sugarshakerbakery.acuityscheduling.com/schedule.php?appointmentType=1852968
+ Our tasting includes 4 flavor combinations and a 45-minute consultation for up to four guests at our commercial kitchen.   
+You can find a listing of our flavors at http://www.sugarshakerbakery.com/flavor-listing/",,Wedding Cakes,"{'Scheduling - Meeting or Job', 'Follow-up', 'null_value', 'Job Details'}","{'Scheduling - Meeting or Job', 'Follow-up', 'null_value', 'Job Details'}","{'Follow-up', 'null_value', 'Job Details'}","{'Job Details', 'Scheduling - Meeting or Job', 'Follow-up'}","{'Job Details', 'Scheduling - Meeting or Job', 'Follow-up'}","Hi, James!  Have you found a cake vendor yet?  If so, let us know so we can tailor our communications appropriately.  If not, let us know you the best of delicious cake and great service!
+To schedule your tasting, click the link below.
+https://sugarshakerbakery.acuityscheduling.com/schedule.php?appointmentType=1852968
+ Our tasting includes 4 flavor combinations and a 45-minute consultation for up to four guests at our commercial kitchen.   
+You can find a listing of our flavors at http://www.sugarshakerbakery.com/flavor-listing/",1,30 days 05:52:40.087054000,30.0,725.88,False,1,0
+29,42530966,,2017-05-04 20:12:49.891208,Customer,Hi [PERSON_NAME]! Are you available July 1st?,,DJ,"{'Scheduling - Meeting or Job', 'null_value'}","{'Scheduling - Meeting or Job', 'null_value'}","{'Scheduling - Meeting or Job', 'null_value'}",{'Scheduling - Meeting or Job'},{'Scheduling - Meeting or Job'},Hi Marlon! Are you available July 1st?,0,205 days 05:31:08.787305000,205.0,4925.52,False,1,0
+3578,61599498,,2017-07-26 16:44:13.113270,Pro,"Hello, would you like [PERSON_NAME][LOCATION]  to schedule a massage for you this week?",,Massage Therapy,"{'Scheduling - Meeting or Job', 'Follow-up', 'null_value'}","{'Scheduling - Meeting or Job', 'Follow-up', 'null_value'}","{'Scheduling - Meeting or Job', 'null_value'}","{'Scheduling - Meeting or Job', 'Follow-up'}","{'Scheduling - Meeting or Job', 'Follow-up'}","Hello, would you like Shan Paul Massage  to schedule a massage for you this week?",1,26 days 08:04:34.048949000,26.0,632.08,False,1,0
+13919,61913985,,2017-09-06 19:48:56.458453,Pro,Could you give me your e-mail address?  I'd like to invite you to a concert I'm in.,,Violin Lessons (for adults),"{'null_value', 'Contact Information'}","{'null_value', 'Contact Information'}","{'null_value', 'Contact Information'}",{'Contact Information'},{'Contact Information'},Could you give me your e-mail address?  I'd like to invite you to a concert I'm in.,0,63 days 20:20:36.314831000,63.0,1532.34,False,1,0
+2619,60498142,,2017-10-10 18:58:21.838357,Pro,"Hi [PERSON_NAME] wanted to get in touch with you and see if you still need anything for your event.  Please feel free to contact me if you have any questions. 
+
+- Steven
+[LOCATION]
+www.[LOCATION].com",,MC and Host Services,"{'Scheduling - Meeting or Job', 'Follow-up', 'null_value'}","{'Location', 'Follow-up', 'null_value'}","{'Follow-up', 'null_value'}",{'Follow-up'},"{'Location', 'Scheduling - Meeting or Job', 'Follow-up'}","Hi Peter  I wanted to get in touch with you and see if you still need anything for your event.  Please feel free to contact me if you have any questions. 
+
+- Steven
+Magical Memories Entertainment
+www.mme123.com",1,35 days 19:09:01.299752000,35.0,859.15,False,1,1
+7096,59949215,,2017-10-30 17:23:06.080421,Pro,"Hi [PERSON_NAME],
+
+I'd really appreciate you taking a few minutes to write a review of my work that I can include on my Thumbtack profile. Reviews are important because they help me get new customers.
+
+Thanks in advance!",,Wedding and Event Makeup,"{'null_value', 'Confirmation - Meeting', 'Hire'}","{'null_value', 'Hire'}","{'null_value', 'Confirmation - Meeting', 'Hire'}","{'Confirmation - Meeting', 'Hire'}","{'Confirmation - Meeting', 'Hire'}","Hi Livia,
+
+I'd really appreciate you taking a few minutes to write a review of my work that I can include on my Thumbtack profile. Reviews are important because they help me get new customers.
+
+Thanks in advance!",0,138 days 21:14:37.012245000,138.0,3333.24,False,1,0
+6598,59429504,,2017-07-01 16:55:20.830390,Pro,"Hi [PERSON_NAME],
+
+I hope this day finds you well. 
+
+You recently reached out to Thumbtack, and it states that you are still in need of catering services.  If so, I would like to discuss your event and our services in greater detail.  Please drop me a line and let me know when we can review your catering needs.  
+
+If you have decided not to hire a caterer at this time or no longer need our services, please inform me and I will stop trying to reach you.
+
+Please respond to this e-mail or call me at [PHONE_NUMBER].  I hope to hear from you soon.
+ 
+Thank You,                                                
+Diane                                                  
+Event Planner                                      
+Raymond’s Catering                          
+Tel: [PHONE_NUMBER]
+Email: [EMAIL_ADDRESS]
+Website:
+www.RaymondsCatering.com",,Wedding and Event Catering,"{'null_value', 'Follow-up', 'Contact Information'}","{'null_value', 'Follow-up', 'Contact Information'}","{'null_value', 'Follow-up', 'Contact Information'}","{'Follow-up', 'Contact Information'}","{'Follow-up', 'Contact Information'}","Hi Melinda,
+
+I hope this day finds you well. 
+
+You recently reached out to Thumbtack, and it states that you are still in need of catering services.  If so, I would like to discuss your event and our services in greater detail.  Please drop me a line and let me know when we can review your catering needs.  
+
+If you have decided not to hire a caterer at this time or no longer need our services, please inform me and I will stop trying to reach you.
+
+Please respond to this e-mail or call me at 610-960-2074.  I hope to hear from you soon.
+ 
+Thank You,                                                
+Diane                                                  
+Event Planner                                      
+Raymond’s Catering                          
+Tel: 610-960-2074
+Email: RaymondsCatering@aol.com
+Website:
+www.RaymondsCatering.com",1,24 days 01:59:35.053949000,24.0,577.99,False,1,0
+6123,58775583,,2017-08-20 15:39:20.023934,Pro,"[PERSON_NAME], We offer (Free Estimates)! 
+   Have you chosen a service to clean your home? If you have not hired someone and or still looking for service we look forward to working with you! We would like to extend our best deal of the year to you! We can set up your first cleaning if you are unable to meet for a consultation. If you would like to schedule a free consultation with us, we can come to your home and show you what will be covered on each cleaning, discuss scheduling, etc. If you can’t meet then we can discuss details over the phone. We would love to answer any questions you may have. When would you like your first cleaning? 
+Thanks!
+Sweep Away
+[PHONE_NUMBER]
+[LOCATION].com",,House Cleaning,"{'Scheduling - Meeting or Job', 'null_value', 'Follow-up', 'Contact Information'}","{'Scheduling - Meeting or Job', 'Price', 'null_value', 'Follow-up', 'Contact Information'}","{'Scheduling - Meeting or Job', 'Price', 'null_value', 'Follow-up', 'Contact Information'}","{'Follow-up', 'Scheduling - Meeting or Job', 'Price', 'Contact Information'}","{'Scheduling - Meeting or Job', 'Price', 'Follow-up', 'Contact Information'}","Pam, We offer (Free Estimates)! 
+   Have you chosen a service to clean your home? If you have not hired someone and or still looking for service we look forward to working with you! We would like to extend our best deal of the year to you! We can set up your first cleaning if you are unable to meet for a consultation. If you would like to schedule a free consultation with us, we can come to your home and show you what will be covered on each cleaning, discuss scheduling, etc. If you can’t meet then we can discuss details over the phone. We would love to answer any questions you may have. When would you like your first cleaning? 
+Thanks!
+Sweep Away
+919-880-3823
+Sweepawayclean.com",1,72 days 16:09:11.018558000,72.0,1744.15,False,1,0
+1136,58780152,,2017-07-18 14:38:15.972772,Pro,"Good Morning,
+
+We would like to know if you have found someone to help you with your cleaning project. If not, we would love to do so. We have openings available for the following dates:
+*Thursday, July 20th.
+*Friday, July 21st. 
+
+Please feel free to contact us if you have any questions. Thank you.",,Pressure Washing,"{'Scheduling - Meeting or Job', 'Follow-up', 'null_value'}","{'Scheduling - Meeting or Job', 'Follow-up', 'null_value'}","{'Scheduling - Meeting or Job', 'Follow-up', 'null_value'}","{'Scheduling - Meeting or Job', 'Follow-up'}","{'Scheduling - Meeting or Job', 'Follow-up'}","Good Morning,
+
+We would like to know if you have found someone to help you with your cleaning project. If not, we would love to do so. We have openings available for the following dates:
+*Thursday, July 20th.
+*Friday, July 21st. 
+
+Please feel free to contact us if you have any questions. Thank you.",1,17 days 19:59:14.860174000,17.0,427.99,False,1,1
+12537,60249987,,2017-06-24 18:26:36.709465,Customer,"Hey [PERSON_NAME], not sure if you got my text. Drawer opening is 24&quote by 4 7/8&quote",,Window Repair,"{'null_value', 'Job Details'}","{'null_value', 'Job Details', 'Confirmation - Contact'}","{'null_value', 'Job Details'}",{'Job Details'},"{'Job Details', 'Confirmation - Contact'}","Hey Ron, not sure if you got my text. Drawer opening is 24&quote by 4 7/8&quote",0,16 days 18:09:26.364986000,16.0,402.16,False,1,0
+3662,61669841,,2017-10-17 18:53:29.189356,Pro,[PERSON_NAME]. Just checking in. Did you find the right trainer for you?,,Personal Training,"{'Follow-up', 'null_value'}","{'Follow-up', 'null_value'}","{'Follow-up', 'null_value'}",{'Follow-up'},{'Follow-up'},Hi Mariah. Just checking in. Did you find the right trainer for you?,1,110 days 18:40:41.774224000,110.0,2658.68,False,1,1
+6292,59094171,,2017-06-26 01:30:20.620602,Pro,"Hi [PERSON_NAME] 
+I was wondering when I could meet with you to get payment for mowing and leaf clean up thank you [PERSON_NAME] ","So this looks like a hire, but in context, the pro made a mistake of sending the message to the wrong customer.",Lawn Mowing and Trimming,"{'Follow-up', 'null_value'}","{'Follow-up', 'null_value', 'Job Details'}","{'Follow-up', 'null_value'}",{'Follow-up'},"{'Job Details', 'Follow-up'}","Hi Seth 
+I was wondering when I could meet with you to get payment for mowing and leaf clean up thank you Derek ",1,34 days 05:53:17.980076000,34.0,821.89,False,1,0
+5051,40733372,,2017-08-21 22:02:07.217281,Customer,"What is the price per class and how many minutes? Also, where is the class at?",,Piano Lessons (for children or teenagers),"{'Location', 'Price', 'null_value', 'Job Details'}","{'Location', 'Price', 'null_value', 'Job Details'}","{'Location', 'Price', 'null_value', 'Job Details'}","{'Location', 'Job Details', 'Price'}","{'Location', 'Job Details', 'Price'}","What is the price per class and how many minutes? Also, where is the class at?",0,90 days 00:10:10.160081000,90.0,2160.17,False,1,0
+3161,61160036,,2017-07-26 04:34:15.902846,Pro,Cleaning up files...you still interested in a trainer?,,Personal Training,"{'Follow-up', 'null_value'}","{'Follow-up', 'null_value'}","{'Follow-up', 'null_value'}",{'Follow-up'},{'Follow-up'},Cleaning up files...you still interested in a trainer?,1,28 days 06:43:46.049485000,28.0,678.73,False,1,0
+3183,61205052,,2018-04-10 13:57:17.975222,Customer,"Hey there. Last year we had a pretty bad ant problem, and have already seen some this year. 
+
+How do you guys treat that and what are the rates?",,Pest Control Services,"{'Follow-up', 'null_value', 'Price', 'Job Details'}","{'Price', 'null_value', 'Job Details'}","{'Price', 'null_value', 'Job Details'}","{'Job Details', 'Price'}","{'Job Details', 'Follow-up', 'Price'}","Hey there. Last year we had a pretty bad ant problem, and have already seen some this year. 
+
+How do you guys treat that and what are the rates?",0,250 days 14:07:49.221796000,250.0,6014.13,False,1,0
+2635,60522960,,2017-07-16 02:37:54.385538,Pro,Hi [PERSON_NAME] - would you mind taking a moment to review me on Thumbtack? You can leave a review by following this link: https://www.thumbtack.com/reviews/bids/974bvk9c/write?from_messenger=1,,Private Self Defense Lessons,{'null_value'},{'null_value'},{'null_value'},set(),set(),Hi Kim - would you mind taking a moment to review me on Thumbtack? You can leave a review by following this link: https://www.thumbtack.com/reviews/bids/974bvk9c/write?from_messenger=1,0,24 days 11:01:09.080725000,24.0,587.02,False,1,0
+9206,62793700,,2017-12-16 14:24:24.367788,Customer,hey there,,Massage Therapy,{'null_value'},{'null_value'},{'null_value'},set(),set(),hey there,0,34 days 23:27:39.130457000,34.0,839.46,False,1,0
+8282,61546882,,2017-07-25 04:06:06.313191,Pro,"Hi [PERSON_NAME] wanted to check in. Hope the planning is going well!
+
+[PERSON_NAME]",,Music Entertainment,"{'Follow-up', 'null_value'}","{'Follow-up', 'null_value'}","{'Follow-up', 'null_value'}",{'Follow-up'},{'Follow-up'},"Hi Courtney - 
+
+Just wanted to check in. Hope the planning is going well!
+
+Scott",1,27 days 02:32:28.975483000,27.0,650.54,False,1,1
+13610,61471247,,2017-09-16 18:12:29.899793,Customer,Is there anyway we can meet next Saturday around 12-1 ?,,DJ,"{'Scheduling - Meeting or Job', 'null_value'}","{'Scheduling - Meeting or Job', 'null_value'}","{'Scheduling - Meeting or Job', 'null_value'}",{'Scheduling - Meeting or Job'},{'Scheduling - Meeting or Job'},Is there anyway we can meet next Saturday around 12-1 ?,0,52 days 05:04:25.127752000,52.0,1253.07,False,1,0
+11731,59137954,,2017-07-11 20:01:31.505269,Pro,Just wanted to check in with you. And see if I am going to be able to be of any service to you.,,Portrait Photography,"{'Follow-up', 'null_value'}","{'Follow-up', 'null_value'}","{'Follow-up', 'null_value'}",{'Follow-up'},{'Follow-up'},Just wanted to check in with you. And see if I am going to be able to be of any service to you.,1,41 days 05:57:37.675156000,41.0,989.96,False,1,1
+10646,58104674,,2017-06-04 13:28:14.427101,Pro,"[PERSON_NAME], I've emailed [PERSON_NAME] with a shopping list, please confirm that he has it, thank you !!",,Private Cooking Lessons,"{'null_value', 'Confirmation - Contact'}","{'null_value', 'Confirmation - Contact'}","{'Scheduling - Meeting or Job', 'null_value', 'Confirmation - Contact'}",{'Confirmation - Contact'},"{'Scheduling - Meeting or Job', 'Confirmation - Contact'}","Hello Elena, I've emailed Paul with a shopping list, please confirm that he has it, thank you !!",0,18 days 22:49:02.371751000,18.0,454.82,False,1,0
+3963,62063222,,2017-07-21 15:32:36.435305,Pro,"I'm doing a 8 week bootcamp for free, are you interested",,Personal Training,"{'Price', 'null_value', 'Job Details'}","{'Price', 'null_value', 'Job Details'}","{'Price', 'null_value', 'Job Details'}","{'Job Details', 'Price'}","{'Job Details', 'Price'}","I'm doing a 8 week bootcamp for free, are you interested",0,16 days 17:54:13.520853000,16.0,401.9,False,1,0
+5035,63038489,,2017-08-24 15:52:02.332345,Pro,Hi,,Health and Wellness Coaching,"{'Follow-up', 'null_value'}",{'null_value'},"{'Follow-up', 'null_value'}",{'Follow-up'},{'Follow-up'},Hi,1,24 days 12:21:42.763442000,24.0,588.36,False,1,0
+7360,60241270,,2017-08-09 20:08:45.987919,Pro,Hi dale-Checking in  on the estimate,,Outdoor Landscaping and Design,"{'Follow-up', 'null_value', 'Price'}","{'Price', 'null_value'}","{'Follow-up', 'null_value', 'Price'}","{'Follow-up', 'Price'}","{'Follow-up', 'Price'}",Hi dale-Checking in  on the estimate,1,18 days 17:45:43.507197000,18.0,449.76,False,1,0
+12338,59996372,,2017-06-28 10:51:15.476306,Customer,Hi I am planning to move tomorrow,,Local Moving (under 50 miles),"{'Scheduling - Meeting or Job', 'null_value'}","{'Scheduling - Meeting or Job', 'null_value', 'Job Details'}","{'Scheduling - Meeting or Job', 'null_value'}",{'Scheduling - Meeting or Job'},"{'Job Details', 'Scheduling - Meeting or Job'}",Hi I am planning to move tomorrow,0,23 days 20:57:26.552897000,23.0,572.96,False,1,0
+6125,58775583,,2017-12-07 13:27:56.761789,Pro,"[PERSON_NAME], Do not miss out on our holiday special! Are you satisfied with your current cleaners? If you are not satisfied with your current service and or would like to compare services this is the time to do so! We are offering competitive rates and our limited time holiday special is hard to beat! Ask about our discounts! Compare pricing with our price match feature!* Save time and money now and let us help you this holiday season! Call, text or email today for a free quote and to ask any questions you may have. Also, add our in home laundry service! You can email us, text, or call at your earliest convenience. We would love for you to try us out today!
+Thanks!
+[PERSON_NAME]
+Sweep Away
+[PHONE_NUMBER]",,House Cleaning,"{'Job Details', 'Price', 'null_value', 'Follow-up', 'Contact Information'}","{'Job Details', 'Price', 'null_value', 'Follow-up', 'Contact Information'}","{'Job Details', 'Price', 'null_value', 'Follow-up', 'Contact Information'}","{'Job Details', 'Price', 'Follow-up', 'Contact Information'}","{'Job Details', 'Price', 'Follow-up', 'Contact Information'}","PAMELA, Do not miss out on our holiday special! Are you satisfied with your current cleaners? If you are not satisfied with your current service and or would like to compare services this is the time to do so! We are offering competitive rates and our limited time holiday special is hard to beat! Ask about our discounts! Compare pricing with our price match feature!* Save time and money now and let us help you this holiday season! Call, text or email today for a free quote and to ask any questions you may have. Also, add our in home laundry service! You can email us, text, or call at your earliest convenience. We would love for you to try us out today!
+Thanks!
+Josh Wilder
+Sweep Away
+919-418-2503",1,51 days 16:08:30.417165000,51.0,1240.14,False,1,0
+5734,58394552,,2017-08-08 17:09:22.643443,Customer,"Just sending a message making sure you and videographer  are all set to come next Sat, August 19. Wedding starts at 3 we will be there at 1. Also i need you to take pictures of my sisters family, my 4 boys family, my 2 nephew family, along with my family etc. You can interview anybody everybody wanted to say sonething. Hope all is well see you next Saturday.",,Wedding Videography,"{'Follow-up', 'null_value', 'Hire', 'Job Details'}","{'Scheduling - Meeting or Job', 'Follow-up', 'null_value', 'Job Details'}","{'Scheduling - Meeting or Job', 'Follow-up', 'null_value', 'Job Details'}","{'Job Details', 'Scheduling - Meeting or Job', 'Follow-up'}","{'Job Details', 'Scheduling - Meeting or Job', 'Follow-up', 'Hire'}","Just sending a message making sure you and videographer  are all set to come next Sat, August 19. Wedding starts at 3 we will be there at 1. Also i need you to take pictures of my sisters family, my 4 boys family, my 2 nephew family, along with my family etc. You can interview anybody everybody wanted to say sonething. Hope all is well see you next Saturday.",1,76 days 22:03:05.203360000,76.0,1846.05,False,1,0
+7937,61041541,,2017-10-26 00:01:55.953861,Customer,"[PERSON_NAME], we have evicted [PERSON_NAME] and 2334 is empty. Can you provide a bid for flooring, cabinets, new kitchen and baths? Possibly windows and doors? I will email the video if you send you email to me. 
+Thank you.",,Roof Repair or Maintenance,"{'Location', 'Job Details', 'null_value', 'Price', 'Contact Information'}","{'null_value', 'Price', 'Contact Information', 'Job Details'}","{'Price', 'null_value', 'Job Details'}","{'Job Details', 'Price', 'Contact Information'}","{'Location', 'Job Details', 'Price', 'Contact Information'}","Eric, we have evicted Celeste and 2334 is empty. Can you provide a bid for flooring, cabinets, new kitchen and baths? Possibly windows and doors? I will email the video if you send you email to me. 
+Thank you.",0,77 days 22:48:40.372094000,77.0,1870.81,False,1,0
+134,55138226,,2018-02-27 17:03:36.695679,Customer,"I know it has been a while since I was looking at getting a resume done. Are you still in the business? I would like to talk to you if so.
+Thanks,
+[PERSON_NAME]",,Resume Writing,"{'Scheduling - Meeting or Job', 'null_value'}","{'Follow-up', 'null_value'}","{'Follow-up', 'null_value', 'Job Details'}",{'Follow-up'},"{'Job Details', 'Scheduling - Meeting or Job', 'Follow-up'}","I know it has been a while since I was looking at getting a resume done. Are you still in the business? I would like to talk to you if so.
+Thanks,
+Tony Miller",1,333 days 04:44:30.666409000,333.0,7996.74,False,1,0
+9153,62671285,,2018-07-04 02:04:00.532035,Customer,Have an issue with exterior lights by pool. 2 switches for 2 lights on 1 box. Both switches (lights) don’t work,,Circuit Breaker Panel or Fuse Box Repair,"{'null_value', 'Job Details'}","{'null_value', 'Job Details'}","{'Follow-up', 'null_value', 'Job Details'}",{'Job Details'},"{'Job Details', 'Follow-up'}",Have an issue with exterior lights by pool. 2 switches for 2 lights on 1 box. Both switches (lights) don’t work,0,354 days 11:51:59.545305000,354.0,8507.87,False,1,0
+14520,62661319,,2017-08-19 14:40:27.625236,Pro,"Hello Marvin,
+Just following up and seeing if you were still interested in lessons. Feel free to contact me for more information on the matter.",,Piano Lessons,"{'Follow-up', 'null_value'}","{'Follow-up', 'null_value', 'Job Details'}","{'Follow-up', 'null_value'}",{'Follow-up'},"{'Job Details', 'Follow-up'}","Hello Marvin,
+Just following up and seeing if you were still interested in lessons. Feel free to contact me for more information on the matter.",1,22 days 21:35:05.792805000,22.0,549.58,False,1,1
+331,57767481,,2018-05-10 04:37:15.874250,Pro,"How’s everything going with yr wheaten ?  And everybody
+
+[PERSON_NAME]",,Dog Training,"{'Follow-up', 'null_value'}","{'Follow-up', 'null_value'}","{'Follow-up', 'null_value'}",{'Follow-up'},{'Follow-up'},"How’s everything going with yr wheaten ?  And everybody
+
+Suzanne",1,175 days 01:50:22.484254000,175.0,4201.84,False,1,0
+13055,60944761,,2018-04-16 23:43:17.556315,Customer,"Hi [PERSON_NAME], you worked on my deck last year. I wanted to know if you would be interested in a closet remodel and I can get a estimate cost?",,Deck or Porch Repair,"{'Price', 'null_value', 'Job Details'}","{'Price', 'null_value', 'Job Details'}","{'null_value', 'Job Details'}","{'Job Details', 'Price'}","{'Job Details', 'Price'}","Hi Wilmer, you worked on my deck last year. I wanted to know if you would be interested in a closet remodel and I can get a estimate cost?",0,302 days 09:28:14.802832000,302.0,7257.47,False,1,0
+2914,60844975,,2017-07-27 18:32:04.877279,Pro,Hi [PERSON_NAME]! I'm all moved into my new home in [LOCATION]. I would love to set up a consultation with you. I'm available Wednesday-Friday next week. Let me know!,,Nutritionist,"{'Scheduling - Meeting or Job', 'Location', 'null_value'}","{'Scheduling - Meeting or Job', 'Location', 'null_value'}","{'Scheduling - Meeting or Job', 'Location', 'null_value'}","{'Location', 'Scheduling - Meeting or Job'}","{'Location', 'Scheduling - Meeting or Job'}",Hi Barry! I'm all moved into my new home in Rochester. I would love to set up a consultation with you. I'm available Wednesday-Friday next week. Let me know!,0,41 days 03:27:39.572277000,41.0,987.46,False,1,0
+7576,60598167,,2017-07-29 01:34:01.803962,Pro,Hey [PERSON_NAME].  I just wanted to check in and see if you could leave me a review for your father.  I would really appreciate it!,,Massage Therapy,"{'null_value', 'Confirmation - Meeting', 'Hire'}","{'null_value', 'Confirmation - Meeting', 'Hire'}","{'null_value', 'Confirmation - Meeting', 'Hire'}","{'Confirmation - Meeting', 'Hire'}","{'Confirmation - Meeting', 'Hire'}",Hey Renee.  I just wanted to check in and see if you could leave me a review for your father.  I would really appreciate it!,0,39 days 00:53:21.095987000,39.0,936.89,False,1,0
+12579,60297545,,2017-07-01 16:06:49.782179,Pro,"Hi [PERSON_NAME], I hope you're happy with my work. Would you mind writing me a quick review?",,DJ,"{'null_value', 'Confirmation - Meeting', 'Hire'}","{'null_value', 'Confirmation - Meeting', 'Hire'}","{'null_value', 'Confirmation - Meeting', 'Hire'}","{'Confirmation - Meeting', 'Hire'}","{'Confirmation - Meeting', 'Hire'}","Hi Brian, I hope you're happy with my work. Would you mind writing me a quick review?",0,19 days 19:07:37.587822000,19.0,475.13,False,1,0
+12245,59824124,,2017-09-27 13:37:05.518960,Customer,sorry everything has been very busy but will Saturday work at around 11am?,,Wedding and Event Videography,"{'Scheduling - Meeting or Job', 'null_value'}","{'Scheduling - Meeting or Job', 'null_value'}","{'Scheduling - Meeting or Job', 'null_value'}",{'Scheduling - Meeting or Job'},{'Scheduling - Meeting or Job'},sorry everything has been very busy but will Saturday work at around 11am?,0,103 days 15:06:19.969555000,103.0,2487.11,False,1,0
+14793,63100695,,2017-11-06 16:12:10.368809,Pro,Happy Monday [PERSON_NAME]! I thought I'd send another message to check one last time if you wanted to have us on. $600 for 2 shooters if you'd like to go for it. Please let me know before 3- But no worries either way! Have a Wonderful morning!  https://youtu.be/jxY4H0U2UQk,,Wedding and Event Videography,"{'Price', 'null_value', 'Job Details'}","{'Follow-up', 'null_value', 'Price'}","{'Follow-up', 'null_value', 'Price'}","{'Follow-up', 'Price'}","{'Job Details', 'Follow-up', 'Price'}",Happy Monday Ashley! I thought I'd send another message to check one last time if you wanted to have us on. $600 for 2 shooters if you'd like to go for it. Please let me know before 3- But no worries either way! Have a Wonderful morning!  https://youtu.be/jxY4H0U2UQk,1,45 days 00:51:26.243110000,45.0,1080.86,False,1,0
+10724,58175451,,2017-06-15 13:15:57.674326,Customer,"[PERSON_NAME], as the date is approaching, I want to reconnect and confirm the dates are still available?",,Long Distance Moving,"{'Scheduling - Meeting or Job', 'Follow-up', 'null_value'}","{'Scheduling - Meeting or Job', 'Follow-up', 'null_value'}","{'Scheduling - Meeting or Job', 'null_value'}","{'Scheduling - Meeting or Job', 'Follow-up'}","{'Scheduling - Meeting or Job', 'Follow-up'}","HI John, as the date is approaching, I want to reconnect and confirm the dates are still available?",1,26 days 02:31:09.915506000,26.0,626.52,False,1,0
+3175,61180590,,2017-09-15 19:09:07.245362,Pro,Are u still need in of sprinklers,,Sprinkler and Irrigation System Installation,"{'Follow-up', 'null_value'}","{'Follow-up', 'null_value'}","{'Follow-up', 'null_value'}",{'Follow-up'},{'Follow-up'},Are u still need in of sprinklers,1,83 days 05:27:22.843784000,83.0,1997.46,False,1,0
+9673,63510958,,2018-06-04 17:11:57.737256,Pro,"Mr. [PERSON_NAME], 
+
+Our office is open Monday-Friday from 8am to 5pm. 
+Please feel free to call us anytime during our working hours. 
+
+Thank you",,Roof Repair or Maintenance,{'null_value'},{'null_value'},"{'Scheduling - Meeting or Job', 'null_value'}",set(),{'Scheduling - Meeting or Job'},"Mr. James, 
+
+Our office is open Monday-Friday from 8am to 5pm. 
+Please feel free to call us anytime during our working hours. 
+
+Thank you",0,313 days 06:43:14.111614000,313.0,7518.72,False,1,0
+71,46086074,,2017-12-01 15:11:23.554228,Customer,baby......,,Personal Training,{'null_value'},{'null_value'},{'null_value'},set(),set(),baby......,0,145 days 17:01:29.558090000,145.0,3497.02,False,1,0
+801,58326706,,2017-05-24 02:16:54.823640,Customer,"Hi [PERSON_NAME], thank you for your quote. I am wondering if you are still available to photograph our wedding on August 5th in [LOCATION], [LOCATION]. If so, what are the next steps that we need to take to book you. I look forward to your response.",,Wedding Photography,"{'Scheduling - Meeting or Job', 'Location', 'Price', 'null_value'}","{'Scheduling - Meeting or Job', 'Location', 'Price', 'null_value'}","{'Location', 'Job Details', 'Scheduling - Meeting or Job', 'null_value', 'Price'}","{'Location', 'Scheduling - Meeting or Job', 'Price'}","{'Location', 'Job Details', 'Scheduling - Meeting or Job', 'Price'}","Hi Jordyn, thank you for your quote. I am wondering if you are still available to photograph our wedding on August 5th in Aromas, CA. If so, what are the next steps that we need to take to book you. I look forward to your response.",0,14 days 07:11:13.171223000,14.0,343.19,False,1,0
+6744,59530431,,2017-06-20 00:30:02.817334,Pro,Hi Caleb.How are you doing? Looking forward to seeing the website  when you finish.,Should be tagged as job details/confirmation/hire?  But the category is massage therapy,Massage Therapy,{'null_value'},{'null_value'},{'null_value'},set(),set(),Hi Caleb.How are you doing? Looking forward to seeing the website  when you finish.,0,20 days 22:23:57.955411000,20.0,502.4,False,1,0
+1301,59056073,,2017-11-25 04:54:37.623932,Pro,"Hi, [PERSON_NAME]! Have you decided on a cake vendor yet?  Our calendar is filling up fast!  We have one spot open on your date, as of right now.",,Wedding Cakes,"{'Scheduling - Meeting or Job', 'Follow-up', 'null_value'}","{'Scheduling - Meeting or Job', 'Follow-up', 'null_value'}","{'Scheduling - Meeting or Job', 'Follow-up', 'null_value'}","{'Scheduling - Meeting or Job', 'Follow-up'}","{'Scheduling - Meeting or Job', 'Follow-up'}","Hi, James! Have you decided on a cake vendor yet?  Our calendar is filling up fast!  We have one spot open on your date, as of right now.",1,14 days 08:11:39.644248000,14.0,344.19,False,1,1
+5173,57723640,,2018-03-11 00:09:38.093304,Customer,"Hello there, are you still in business in the [LOCATION] area?",,Gutter Cleaning and Maintenance,"{'Location', 'null_value'}","{'Location', 'null_value'}","{'Location', 'null_value'}",{'Location'},{'Location'},"Hello there, are you still in business in the Columbus area?",0,303 days 02:31:26.477340000,303.0,7274.52,False,1,0
+9954,63766474,,2017-08-18 18:42:57.097381,Pro,Hi [PERSON_NAME] - would you mind taking a moment to review me on Thumbtack? You can leave a review by following this link: https://www.thumbtack.com/reviews/bids/sq3gq72c/write?from_messenger=1,,Personal Training,{'null_value'},"{'null_value', 'Confirmation - Meeting', 'Hire'}",{'null_value'},set(),"{'Confirmation - Meeting', 'Hire'}",Hi Michelle - would you mind taking a moment to review me on Thumbtack? You can leave a review by following this link: https://www.thumbtack.com/reviews/bids/sq3gq72c/write?from_messenger=1,0,17 days 16:52:17.099066000,17.0,424.87,False,1,0
+12976,60796536,,2017-08-11 19:20:34.795085,Customer,Hi are you still able to come out to get a bid on how much it will be?,,Carpet Installation,"{'Scheduling - Meeting or Job', 'Price', 'null_value'}","{'Scheduling - Meeting or Job', 'Price', 'null_value'}","{'Scheduling - Meeting or Job', 'Price', 'null_value'}","{'Scheduling - Meeting or Job', 'Price'}","{'Scheduling - Meeting or Job', 'Price'}",Hi are you still able to come out to get a bid on how much it will be?,0,53 days 00:22:07.868674000,53.0,1272.37,False,1,0
+9664,63510324,,2017-08-26 05:09:09.504179,Pro,"Hi [PERSON_NAME],
+
+Checking in with you to see where the band's at. Send a text on over asap and we'll figure out next steps.
+
+Thanks again,
+[PERSON_NAME]
+[PHONE_NUMBER]",,Audio Recording,"{'Follow-up', 'null_value'}","{'null_value', 'Contact Information', 'Job Details'}","{'null_value', 'Follow-up', 'Contact Information'}","{'Follow-up', 'Contact Information'}","{'Job Details', 'Follow-up', 'Contact Information'}","Hi Sam,
+
+Checking in with you to see where the band's at. Send a text on over asap and we'll figure out next steps.
+
+Thanks again,
+Bryan Lash
+425.269.3838",1,32 days 00:48:26.172017000,32.0,768.81,False,1,0
+12728,60445374,,2017-09-01 18:35:11.737875,Pro,Hi  I hope you going to pay me next week,,Pressure Washing,"{'null_value', 'Payment'}","{'null_value', 'Payment'}",{'null_value'},{'Payment'},{'Payment'},Hi  I hope you going to pay me next week,0,26 days 02:50:42.351003000,26.0,626.84,False,1,0
+6243,59030702,,2017-07-05 13:10:56.446205,Customer,"Hi [PERSON_NAME], 
+I decided to go with the entire roof replacement for this home instead of fixing it.
+Did you have a price on that as well please?
+
+Thanks,
+
+[PERSON_NAME]",,Roof Repair or Maintenance,"{'Price', 'null_value', 'Job Details'}","{'Price', 'null_value', 'Job Details'}","{'Follow-up', 'null_value', 'Price', 'Job Details'}","{'Job Details', 'Price'}","{'Follow-up', 'Job Details', 'Price'}","Hi Mark, 
+I decided to go with the entire roof replacement for this home instead of fixing it.
+Did you have a price on that as well please?
+
+Thanks,
+
+Shari",0,45 days 18:04:48.327417000,45.0,1098.08,False,1,0
+6074,58692101,,2017-06-08 16:41:41.345078,Pro,"Why did you view my quote but not look at my website or read my reviews?  Please send an email to [EMAIL_ADDRESS] telling them to refund my credits if you are not an actual potential customer.   Are you a competing DJ posing as a customer, by chance?  Don't feel bad, they have admitted it before, and I don't mind sharing my pricing and my pitches.  However, I would like to receive a refund for the credits I was charged when the bid was opened.",the job didn't pan out.,DJ,"{'Follow-up', 'null_value', 'Price'}","{'null_value', 'Price', 'Contact Information'}","{'null_value', 'Price', 'Contact Information', 'Job Details'}","{'Price', 'Contact Information'}","{'Job Details', 'Price', 'Follow-up', 'Contact Information'}","Why did you view my quote but not look at my website or read my reviews?  Please send an email to support@thumbtack.com telling them to refund my credits if you are not an actual potential customer.   Are you a competing DJ posing as a customer, by chance?  Don't feel bad, they have admitted it before, and I don't mind sharing my pricing and my pitches.  However, I would like to receive a refund for the credits I was charged when the bid was opened.",0,20 days 22:02:06.880573000,20.0,502.04,False,1,0
+13019,60891573,,2017-09-20 16:44:05.972440,Customer,What's your next availability?,Quick Reply,Violin Lessons (for adults),"{'Scheduling - Meeting or Job', 'null_value'}","{'Scheduling - Meeting or Job', 'null_value'}","{'Scheduling - Meeting or Job', 'null_value'}",{'Scheduling - Meeting or Job'},{'Scheduling - Meeting or Job'},What's your next availability?,0,94 days 01:01:21.377379000,94.0,2257.02,False,1,0
+4612,62703795,,2017-08-11 18:15:54.641270,Pro,Hey just letting you know we dropped the rate down to 30 let me know if your still interested,,Personal Training,"{'Follow-up', 'null_value', 'Price'}","{'Follow-up', 'null_value', 'Price'}","{'Follow-up', 'null_value', 'Price'}","{'Follow-up', 'Price'}","{'Follow-up', 'Price'}",Hey just letting you know we dropped the rate down to 30 let me know if your still interested,1,21 days 01:17:43.989192000,21.0,505.3,False,1,0
+689,58172657,,2017-06-16 23:45:22.154598,Pro,Hey [PERSON_NAME] how are you doing,,Massage Therapy,"{'Follow-up', 'null_value'}","{'Follow-up', 'null_value'}","{'Follow-up', 'null_value'}",{'Follow-up'},{'Follow-up'},Hey Michelle how are you doing ,1,23 days 02:11:38.365385000,23.0,554.19,False,1,0
+14201,62361138,,2017-07-28 23:03:53.891776,Customer,"Hi [PERSON_NAME],  I saw your note mentioned something about free wardrobes - does this mean you would provide wardrobe boxes?",,Long Distance Moving,"{'null_value', 'Job Details'}","{'null_value', 'Job Details'}","{'null_value', 'Job Details'}",{'Job Details'},{'Job Details'},"Hi Tom,  I saw your note mentioned something about free wardrobes - does this mean you would provide wardrobe boxes?",0,19 days 09:59:39.770462000,19.0,465.99,False,1,0
+10841,58235966,,2017-09-16 13:23:13.989450,Customer,Hi [PERSON_NAME]. Strangely I never received your follow up note until I checked thumbtack today. Are you available this fall for weekend lessons?,,Violin Lessons (for children or teenagers),"{'Scheduling - Meeting or Job', 'null_value', 'Job Details'}","{'Scheduling - Meeting or Job', 'null_value'}","{'Scheduling - Meeting or Job', 'null_value'}",{'Scheduling - Meeting or Job'},"{'Job Details', 'Scheduling - Meeting or Job'}",Hi Reuben. Strangely I never received your follow up note until I checked thumbtack today. Are you available this fall for weekend lessons?,0,114 days 00:19:34.894015000,114.0,2736.33,False,1,0
+5377,57973612,,2017-05-24 01:33:51.330981,Pro,Hey ! Just checking in to see if you found an artist for your big day ? Hope to speak with you soon ❤️,,Wedding and Event Makeup,"{'Follow-up', 'null_value'}","{'null_value', 'Job Details'}","{'Follow-up', 'null_value'}",{'Follow-up'},"{'Job Details', 'Follow-up'}",Hey ! Just checking in to see if you found an artist for your big day ? Hope to speak with you soon ❤️,1,17 days 04:43:14.564035000,17.0,412.72,False,1,1
+14594,62761102,,2017-08-13 02:27:20.072243,Customer,"Hi [PERSON_NAME],
+
+thank you for your fast response. I apologize for responding to you after so many days. I had a lot of issues which did not allow me to get back to you sooner. I liked your work; however, it is a bit over my budget. 
+
+
+Best Regards,
+[PERSON_NAME]",,Wedding Videography,"{'Price', 'null_value'}","{'Price', 'null_value', 'Job Details'}","{'Price', 'null_value'}",{'Price'},"{'Job Details', 'Price'}","Hi Joseph,
+
+thank you for your fast response. I apologize for responding to you after so many days. I had a lot of issues which did not allow me to get back to you sooner. I liked your work; however, it is a bit over my budget. 
+
+
+Best Regards,
+Yenny Kayamba",0,30 days 14:05:24.916323000,30.0,734.09,False,1,0
+13010,60888304,,2017-07-24 17:50:07.833859,Pro,"[PERSON_NAME],
+
+I hope you are well. Please let me know if you have other questions or requests. Feel free to email us at [EMAIL_ADDRESS] or give us a call at [PHONE_NUMBER]
+
+Thank you!",,Wedding Videography,"{'null_value', 'Contact Information'}","{'null_value', 'Contact Information', 'Job Details'}","{'null_value', 'Follow-up', 'Contact Information'}",{'Contact Information'},"{'Job Details', 'Follow-up', 'Contact Information'}","Hello Tara,
+
+I hope you are well. Please let me know if you have other questions or requests. Feel free to email us at studiosmomento@gmail.com or give us a call at (616)264-4670
+
+Thank you!",0,31 days 01:56:12.993968000,31.0,745.94,False,1,0
+3861,61941722,,2018-07-10 18:10:23.152543,Pro,Tell ur husband to call me [PHONE_NUMBER],,Roof Repair or Maintenance,"{'Scheduling - Meeting or Job', 'null_value', 'Contact Information'}","{'null_value', 'Contact Information', 'Confirmation - Contact'}","{'null_value', 'Contact Information', 'Confirmation - Contact'}","{'Contact Information', 'Confirmation - Contact'}","{'Scheduling - Meeting or Job', 'Contact Information', 'Confirmation - Contact'}",Tell ur husband to call me 8569744333,0,372 days 02:30:18.818500000,372.0,8930.5,False,1,0
+9526,63346719,,2017-09-21 16:13:17.561286,Pro,How were the travels? Are you ready for me to come take a look?,,Pest Control Services,"{'Follow-up', 'null_value'}","{'Follow-up', 'null_value'}","{'Follow-up', 'null_value'}",{'Follow-up'},{'Follow-up'},How were the travels? Are you ready for me to come take a look?,1,43 days 22:41:32.694725000,43.0,1054.69,False,1,0
+2618,60498142,,2017-09-04 23:49:20.538605,Pro,"Hi [PERSON_NAME] wanted to check in to see if you still need anything for your upcoming event.  Please feel free to contact me if you have any questions. 
+
+- Steven
+[LOCATION]
+www.[LOCATION].com",,MC and Host Services,"{'Scheduling - Meeting or Job', 'Follow-up', 'null_value'}","{'Location', 'Follow-up', 'null_value'}","{'Follow-up', 'null_value'}",{'Follow-up'},"{'Location', 'Scheduling - Meeting or Job', 'Follow-up'}","Hi Peter   I wanted to check in to see if you still need anything for your upcoming event.  Please feel free to contact me if you have any questions. 
+
+- Steven
+Magical Memories Entertainment
+www.mme123.com",1,14 days 23:37:35.921595000,14.0,359.63,False,1,1
+11758,59224805,,2017-06-18 15:04:12.700731,Pro,"Hello, 
+
+We are just reaching out to ask how we could help and answer any questions you may have? 
+
+Thank You for your time, 
+
+
+John- Souled Out Entertainment ",,DJ,"{'Follow-up', 'null_value'}","{'Follow-up', 'null_value'}","{'Follow-up', 'null_value'}",{'Follow-up'},{'Follow-up'},"Hello, 
+
+We are just reaching out to ask how we could help and answer any questions you may have? 
+
+Thank You for your time, 
+
+
+John- Souled Out Entertainment ",1,22 days 23:24:31.932793000,22.0,551.41,False,1,0
+489,57954079,,2017-07-28 08:25:33.883933,Pro,Hi [PERSON_NAME] just checking to verify your wedding booked for Saturday.,,Wedding Officiant,"{'Follow-up', 'null_value', 'Confirmation - Meeting'}","{'Scheduling - Meeting or Job', 'Follow-up', 'null_value'}","{'Scheduling - Meeting or Job', 'Follow-up', 'null_value', 'Job Details'}","{'Scheduling - Meeting or Job', 'Follow-up'}","{'Confirmation - Meeting', 'Job Details', 'Scheduling - Meeting or Job', 'Follow-up'}",Hi Lucy just checking to verify your wedding booked for Saturday.,1,78 days 11:42:33.043834000,78.0,1883.71,False,1,0
+8564,62057186,,2017-08-04 04:00:08.548471,Pro,"Hi [PERSON_NAME],
+
+I'd really appreciate you taking a few minutes to write a review of my work that I can include on my Thumbtack profile. Reviews are important because they help me get new customers.
+
+Thanks in advance!",no label,Personal Training,{'null_value'},"{'Price', 'null_value', 'Confirmation - Meeting'}",{'null_value'},set(),"{'Price', 'Confirmation - Meeting'}","Hi Aliza,
+
+I'd really appreciate you taking a few minutes to write a review of my work that I can include on my Thumbtack profile. Reviews are important because they help me get new customers.
+
+Thanks in advance!",0,22 days 14:57:57.003710000,22.0,542.97,False,1,0
+84,48887274,,2017-07-17 18:48:43.734902,Customer,"[PERSON_NAME],  [PERSON_NAME] would like to have a trial run at cleaning his apartment. He lives at 5401 [PERSON_NAME][LOCATION] which is the Main Street Village Apt complex.  Would you have availability to do the cleaning this Thursday afternoon, anytime Friday, or anytime next Monday or next Tuesday before 10 am.  He can be reached at [PHONE_NUMBER] but he has limited time to answer his phone so don't hesitate to call me at [PHONE_NUMBER] if you are having problems contacting him.  
+
+Thanks,
+[PERSON_NAME]",,Apartment Cleaning,"{'Location', 'Job Details', 'Scheduling - Meeting or Job', 'null_value', 'Contact Information'}","{'Location', 'Job Details', 'Scheduling - Meeting or Job', 'null_value', 'Contact Information'}","{'Location', 'Job Details', 'Scheduling - Meeting or Job', 'null_value', 'Contact Information'}","{'Location', 'Job Details', 'Scheduling - Meeting or Job', 'Contact Information'}","{'Location', 'Job Details', 'Scheduling - Meeting or Job', 'Contact Information'}","Amy,  Bill would like to have a trial run at cleaning his apartment. He lives at 5401 Sterling Drive Apt 3 Granger, IN which is the Main Street Village Apt complex.  Would you have availability to do the cleaning this Thursday afternoon, anytime Friday, or anytime next Monday or next Tuesday before 10 am.  He can be reached at 952-393-5162 but he has limited time to answer his phone so don't hesitate to call me at 484-515-6419 if you are having problems contacting him.  
+
+Thanks,
+Liz McCool",0,14 days 16:15:18.430529000,14.0,352.26,False,1,0
+11492,58938940,,2017-06-07 19:17:06.124284,Pro,"[PERSON_NAME],
+
+
+Are you still interested in hiring a DJ?
+
+[PERSON_NAME]",,DJ,"{'Follow-up', 'null_value'}","{'Follow-up', 'null_value'}","{'Follow-up', 'null_value'}",{'Follow-up'},{'Follow-up'},"Shayanne,
+
+
+Are you still interested in hiring a DJ?
+
+Rachel",1,20 days 01:45:24.244586000,20.0,481.76,False,1,1
+1791,59645048,,2017-06-27 15:59:39.245385,Pro,"Hi, 
+
+Just following back to see if you still interested in photographer. 
+
+we-capture.com
+
+You call me to schedule or go to website to book directly. 
+
+Thank you! 
+
+Mike ",,Aerial Photography,"{'Follow-up', 'null_value'}","{'Scheduling - Meeting or Job', 'Follow-up', 'null_value'}","{'Follow-up', 'null_value'}",{'Follow-up'},"{'Scheduling - Meeting or Job', 'Follow-up'}","Hi, 
+
+Just following back to see if you still interested in photographer. 
+
+we-capture.com
+
+You call me to schedule or go to website to book directly. 
+
+Thank you! 
+
+Mike ",1,24 days 23:42:46.453005000,24.0,599.71,False,1,0
+13933,61923073,,2017-07-31 18:57:14.661765,Pro,"Hello  Nao,
+
+Would you guys be able to come for a lesson Fridays 4:30 or Saturdays 5:00?
+
+Sincerely,
+
+Guy Tem",,Piano Lessons,"{'Scheduling - Meeting or Job', 'null_value', 'Job Details'}","{'Scheduling - Meeting or Job', 'null_value'}","{'Scheduling - Meeting or Job', 'null_value'}",{'Scheduling - Meeting or Job'},"{'Job Details', 'Scheduling - Meeting or Job'}","Hello  Nao,
+
+Would you guys be able to come for a lesson Fridays 4:30 or Saturdays 5:00?
+
+Sincerely,
+
+Guy Tem",0,29 days 16:24:28.885025000,29.0,712.41,False,1,0
+14787,63100695,,2017-09-19 02:26:13.115013,Customer,Hey! Do you have any clips I can look at?,,Wedding and Event Videography,"{'null_value', 'Job Details'}","{'null_value', 'Job Details'}","{'null_value', 'Job Details'}",{'Job Details'},{'Job Details'},Hey! Do you have any clips I can look at?,0,43 days 05:11:46.409064000,43.0,1037.2,False,1,0
+6525,59335503,,2017-06-16 15:50:37.947910,Customer,Hi,,Photo Booth Rental,{'null_value'},{'null_value'},{'null_value'},set(),set(),Hi,0,15 days 20:43:35.400559000,15.0,380.73,False,1,0
+8224,61473703,,2017-07-12 01:27:30.475528,Pro,Hey brother if it rains Thursday can I come paint your ceiling?,,Interior Painting,"{'Scheduling - Meeting or Job', 'null_value'}","{'Scheduling - Meeting or Job', 'null_value'}","{'Follow-up', 'null_value', 'Confirmation - Meeting', 'Hire'}",{'Scheduling - Meeting or Job'},"{'Confirmation - Meeting', 'Scheduling - Meeting or Job', 'Follow-up', 'Hire'}",Hey brother if it rains Thursday can I come paint your ceiling?,0,15 days 23:43:09.923568000,15.0,383.72,False,1,0
+8979,62474405,,2017-08-14 15:58:32.764981,Customer,"[PERSON_NAME], I am ready to proceed with eliminating the squeaks in our floor. How is your availability?",,Handyman,"{'Scheduling - Meeting or Job', 'null_value', 'Job Details'}","{'Scheduling - Meeting or Job', 'null_value', 'Job Details'}","{'Scheduling - Meeting or Job', 'null_value'}","{'Job Details', 'Scheduling - Meeting or Job'}","{'Job Details', 'Scheduling - Meeting or Job'}","Sammy, I am ready to proceed with eliminating the squeaks in our floor. How is your availability?",0,33 days 23:27:19.435898000,33.0,815.46,False,1,0
+227,57602633,,2017-08-09 02:40:13.677673,Customer,"Hi [PERSON_NAME], sorry it took so long to get back to you! Would you be open to doing sessions with my fiance and I in our apartment gym in [LOCATION]? We would ideally do one session a week, around 6:30/7am during the work week. Please let me know what you think, and what something like that might cost. Thanks!!!",,Personal Training,"{'Location', 'Job Details', 'Scheduling - Meeting or Job', 'null_value', 'Price'}","{'Location', 'Job Details', 'Scheduling - Meeting or Job', 'null_value', 'Price'}","{'Scheduling - Meeting or Job', 'Location', 'Price', 'null_value'}","{'Location', 'Job Details', 'Scheduling - Meeting or Job', 'Price'}","{'Location', 'Job Details', 'Scheduling - Meeting or Job', 'Price'}","Hi Martin, sorry it took so long to get back to you! Would you be open to doing sessions with my fiance and I in our apartment gym in Bronxville? We would ideally do one session a week, around 6:30/7am during the work week. Please let me know what you think, and what something like that might cost. Thanks!!!",0,99 days 02:46:30.707346000,99.0,2378.78,False,1,0
+12402,60025205,,2017-09-08 18:46:49.276046,Pro,"[PERSON_NAME],  I hope all is well with you and your happy new bride!  I recently listed my service on Wedding.com, and I was wondering if you would not mind providing me with an excellent review.  I really appreciate it! Thanks so much!    https://www.wedding.com/review-rating.php?uid=673937                          DJ [PERSON_NAME]",,DJ,{'null_value'},{'null_value'},"{'Follow-up', 'null_value'}",set(),{'Follow-up'},"Hello Garnell,  I hope all is well with you and your happy new bride!  I recently listed my service on Wedding.com, and I was wondering if you would not mind providing me with an excellent review.  I really appreciate it! Thanks so much!    https://www.wedding.com/review-rating.php?uid=673937                          DJ Mike",0,68 days 13:20:41.705896000,68.0,1645.34,False,1,0
+12262,59836489,,2017-08-30 23:10:36.965921,Customer,Hi  [PERSON_NAME]- We have a few more small projects at the house- you did such a great job last time- we wanted to know if you were available!,,Handyman,"{'null_value', 'Job Details'}","{'Scheduling - Meeting or Job', 'null_value'}","{'Scheduling - Meeting or Job', 'null_value', 'Confirmation - Meeting', 'Hire'}",{'Scheduling - Meeting or Job'},"{'Confirmation - Meeting', 'Job Details', 'Scheduling - Meeting or Job', 'Hire'}",Hi  Gilbert- We have a few more small projects at the house- you did such a great job last time- we wanted to know if you were available!,0,89 days 00:44:20.970821000,89.0,2136.74,False,1,0
+124,54853421,,2017-06-09 15:29:07.559914,Pro,"Good afternoon [PERSON_NAME],
+
+Thank you very much for hiring me for your upcoming Surprise Birthday party June16th.
+
+I just called you and left a message with my contact info.
+
+When you get a chance email me or call me to discuss the details of the party, answer any questions and to solidify the date.
+
+My contact info is listed below and I look forward to speaking with you [PERSON_NAME].
+
+Thank you,
+
+[PERSON_NAME] Event Services
+[EMAIL_ADDRESS]
+[PHONE_NUMBER]",,DJ,"{'Job Details', 'Hire', 'null_value', 'Contact Information', 'Confirmation - Contact'}","{'Job Details', 'Scheduling - Meeting or Job', 'Hire', 'Contact Information', 'Confirmation - Contact'}","{'Confirmation - Meeting', 'Scheduling - Meeting or Job', 'Hire', 'Contact Information', 'Confirmation - Contact'}","{'Job Details', 'Scheduling - Meeting or Job', 'Contact Information', 'Hire', 'Confirmation - Contact'}","{'Confirmation - Meeting', 'Job Details', 'Scheduling - Meeting or Job', 'Hire', 'Contact Information', 'Confirmation - Contact'}","Good afternoon Sheila,
+
+Thank you very much for hiring me for your upcoming Surprise Birthday party June16th.
+
+I just called you and left a message with my contact info.
+
+When you get a chance email me or call me to discuss the details of the party, answer any questions and to solidify the date.
+
+My contact info is listed below and I look forward to speaking with you Sheila.
+
+Thank you,
+
+DJ Rob
+Next Event Services
+robditalia@gmail.com
+(508) 951-4603",0,62 days 18:53:58.531008000,62.0,1506.9,False,1,0
+3895,61964483,,2018-03-04 02:25:27.724005,Pro,"[PERSON_NAME], it’s been a little while I know but just wanting to know how everything is going. I wanted get in contact with you to ask for an email to talk to you and to sent some paperwork over. My email is [EMAIL_ADDRESS] 
+
+So if you have any questions please let me know. Thank you so much again for choosing me to videotape your special day!
+
+MaxGeregaMultiMedia",,Wedding Videography,"{'null_value', 'Follow-up', 'Contact Information', 'Hire'}","{'null_value', 'Follow-up', 'Contact Information'}","{'null_value', 'Contact Information', 'Confirmation - Meeting', 'Hire'}","{'Follow-up', 'Contact Information', 'Hire'}","{'Confirmation - Meeting', 'Hire', 'Follow-up', 'Contact Information'}","Hello Melissa, it’s been a little while I know but just wanting to know how everything is going. I wanted get in contact with you to ask for an email to talk to you and to sent some paperwork over. My email is maxgerega@gmail.com 
+
+So if you have any questions please let me know. Thank you so much again for choosing me to videotape your special day!
+
+MaxGeregaMultiMedia",1,71 days 00:36:29.867358000,71.0,1704.61,False,1,0
+9189,62740774,,2018-02-10 06:17:48.449592,Pro,Hi Amber! Hey can you post a review of me on Thumbtack? I really appreciate it!!,,Guitar Lessons,"{'null_value', 'Confirmation - Meeting', 'Hire'}","{'null_value', 'Confirmation - Meeting', 'Hire'}","{'null_value', 'Confirmation - Meeting', 'Hire'}","{'Confirmation - Meeting', 'Hire'}","{'Confirmation - Meeting', 'Hire'}",Hi Amber! Hey can you post a review of me on Thumbtack? I really appreciate it!!,0,137 days 05:42:04.095917000,137.0,3293.7,False,1,0
+11777,59307655,,2018-01-21 23:47:14.481295,Pro,Are you still having roof issues don’t wait give us a call,,Roof Repair or Maintenance,"{'null_value', 'Job Details'}","{'null_value', 'Job Details'}","{'Follow-up', 'null_value'}",{'Job Details'},"{'Follow-up', 'Job Details'}",Are you still having roof issues don’t wait give us a call,0,31 days 19:19:20.201846000,31.0,763.32,False,1,0
+7274,60192947,,2017-07-17 17:28:29.877311,Pro,"Thank you, [PERSON_NAME]! It was an absolute pleasure. Hope to see you all again.",,Music Entertainment,"{'null_value', 'Confirmation - Meeting', 'Hire'}","{'null_value', 'Confirmation - Meeting', 'Hire'}","{'null_value', 'Confirmation - Meeting', 'Hire'}","{'Confirmation - Meeting', 'Hire'}","{'Confirmation - Meeting', 'Hire'}","Thank you, Maria! It was an absolute pleasure. Hope to see you all again.",0,29 days 02:37:55.199180000,29.0,698.63,False,1,0
+4615,62703795,,2018-07-05 20:24:12.673754,Pro,hello are you still intersted,,Personal Training,"{'Follow-up', 'null_value'}","{'Follow-up', 'null_value'}","{'Follow-up', 'null_value'}",{'Follow-up'},{'Follow-up'},hello are you still intersted,1,230 days 22:35:09.377245000,230.0,5542.59,False,1,0
+5667,58329817,,2017-07-04 04:00:07.451826,Pro,"Hi [PERSON_NAME],
+
+I'd really appreciate you taking a few minutes to write a review of my work that I can include on my Thumbtack profile. Reviews are important because they help me get new customers.
+
+Thanks in advance!",,Guitar Lessons,"{'null_value', 'Confirmation - Meeting', 'Hire'}","{'null_value', 'Hire'}","{'null_value', 'Confirmation - Meeting', 'Hire'}","{'Confirmation - Meeting', 'Hire'}","{'Confirmation - Meeting', 'Hire'}","Hi Vanessa,
+
+I'd really appreciate you taking a few minutes to write a review of my work that I can include on my Thumbtack profile. Reviews are important because they help me get new customers.
+
+Thanks in advance!",0,47 days 12:18:27.388114000,47.0,1140.31,False,1,0
+7766,60809033,,2017-07-01 00:43:41.480093,Pro,Hi [PERSON_NAME]: I can meet at 11:30 on Sunday. I live in [LOCATION]... any suggestions where to meet? I am thinking a starbucks kind of place...somewhere between us....let me know. You certainly can call me at [PHONE_NUMBER] to set up a place. thanks much. joanne,,Resume Writing,"{'Scheduling - Meeting or Job', 'Location', 'Contact Information', 'null_value'}","{'Scheduling - Meeting or Job', 'Location', 'Contact Information', 'null_value'}","{'Scheduling - Meeting or Job', 'Location', 'Contact Information', 'null_value'}","{'Location', 'Scheduling - Meeting or Job', 'Contact Information'}","{'Location', 'Scheduling - Meeting or Job', 'Contact Information'}",Hi Lori: I can meet at 11:30 on Sunday. I live in Novi... any suggestions where to meet? I am thinking a starbucks kind of place...somewhere between us....let me know. You certainly can call me at 248-534-7238 to set up a place. thanks much. joanne,0,14 days 09:19:17.792961000,14.0,345.32,False,1,0
+5749,58398277,,2017-06-26 15:31:53.571573,Pro,Hi [PERSON_NAME] - would you mind taking a moment to review me on Thumbtack? You can leave a review by following this link: https://www.thumbtack.com/reviews/bids/p41sgqa4/write?from_messenger=1,,House Cleaning,"{'null_value', 'Confirmation - Meeting', 'Hire'}","{'null_value', 'Hire'}",{'null_value'},{'Hire'},"{'Confirmation - Meeting', 'Hire'}",Hi Christine - would you mind taking a moment to review me on Thumbtack? You can leave a review by following this link: https://www.thumbtack.com/reviews/bids/p41sgqa4/write?from_messenger=1,0,46 days 18:14:08.795366000,46.0,1122.24,False,1,0
+8329,61655962,,2017-08-30 03:02:23.099501,Pro,"[PERSON_NAME],
+I'd like to ask if you would t mind leaving a review here for me on Thumbtack.
+These reviews have been a huge part of our continued growth and expansion.
+Thank you in advance and have a great day.",,Pressure Washing,"{'null_value', 'Confirmation - Meeting', 'Hire'}",{'null_value'},"{'null_value', 'Confirmation - Meeting', 'Hire'}","{'Confirmation - Meeting', 'Hire'}","{'Confirmation - Meeting', 'Hire'}","Hello Neil,
+I'd like to ask if you would t mind leaving a review here for me on Thumbtack.
+These reviews have been a huge part of our continued growth and expansion.
+Thank you in advance and have a great day.",0,63 days 01:55:59.829647000,63.0,1513.93,False,1,0
+652,58144197,,2017-06-14 15:50:27.055194,Customer,"Hi, I just wanted to follow up and make sure that you/your team is coming on Friday.",,House Cleaning,"{'Scheduling - Meeting or Job', 'Follow-up', 'null_value', 'Hire'}","{'Scheduling - Meeting or Job', 'Follow-up', 'null_value'}","{'Scheduling - Meeting or Job', 'Follow-up', 'null_value'}","{'Scheduling - Meeting or Job', 'Follow-up'}","{'Scheduling - Meeting or Job', 'Follow-up', 'Hire'}","Hi, I just wanted to follow up and make sure that you/your team is coming on Friday.",1,15 days 00:31:40.600875000,15.0,360.53,False,1,1
+11808,59362322,,2017-12-01 03:19:31.550235,Pro,"Hi [PERSON_NAME],
+
+You previously posted a request on Thumbtack for services.  Although I was not selected at that time to provide those services, please know that I am still available should the need arise for additional work.  I am a Top Pro with Thumbtack, maintaining a five-star rating based on the quality of work I provide, my ability to communicate well with my clients, and transparency in the process.
+
+Please stop by my website, see the type of work I do.  Should you need my services in the future, I hope you will give me a call, or you may use the Request a Quote form on my website, ingenuitihomeimprovement.com/requestquote/.  
+
+Thank you again.
+
+All the best,
+
+[PERSON_NAME]
+Ingenuiti, Inc
+Home Improvement
+[PHONE_NUMBER]
+ingenuitihomeimprovement.com",,Lighting Installation,"{'null_value', 'Follow-up', 'Contact Information', 'Job Details'}","{'Follow-up', 'null_value'}","{'null_value', 'Follow-up', 'Contact Information'}","{'Follow-up', 'Contact Information'}","{'Job Details', 'Follow-up', 'Contact Information'}","Hi Mark,
+
+You previously posted a request on Thumbtack for services.  Although I was not selected at that time to provide those services, please know that I am still available should the need arise for additional work.  I am a Top Pro with Thumbtack, maintaining a five-star rating based on the quality of work I provide, my ability to communicate well with my clients, and transparency in the process.
+
+Please stop by my website, see the type of work I do.  Should you need my services in the future, I hope you will give me a call, or you may use the Request a Quote form on my website, ingenuitihomeimprovement.com/requestquote/.  
+
+Thank you again.
+
+All the best,
+
+Kelly Knight
+Ingenuiti, Inc
+Home Improvement
+208-403-1191
+ingenuitihomeimprovement.com",1,177 days 03:50:32.534261000,177.0,4251.84,False,1,0
+3483,61479040,,2017-07-25 20:17:30.482499,Pro,Hi holly! Just following up with you! :),,Wedding and Event Hair Styling,"{'Follow-up', 'null_value'}","{'Follow-up', 'null_value'}","{'Follow-up', 'null_value'}",{'Follow-up'},{'Follow-up'},Hi holly! Just following up with you! :) ,1,26 days 06:34:08.247295000,26.0,630.57,False,1,1
+4804,62921363,,2017-08-08 17:34:28.352992,Customer,"Are you still available? 
+What all is included in you quote?",,Wedding and Event Catering,"{'Scheduling - Meeting or Job', 'Follow-up', 'null_value', 'Price'}","{'Scheduling - Meeting or Job', 'Price', 'null_value'}","{'Scheduling - Meeting or Job', 'Price', 'null_value', 'Job Details'}","{'Scheduling - Meeting or Job', 'Price'}","{'Job Details', 'Scheduling - Meeting or Job', 'Price', 'Follow-up'}","Are you still available? 
+What all is included in you quote?",0,20 days 05:36:30.074601000,20.0,485.61,False,1,0
+10877,58277896,,2017-10-15 07:00:08.964276,Pro,"Hi [PERSON_NAME],
+
+This is [PERSON_NAME] your disc jockey. [PERSON_NAME] and I would really appreciate you taking a moment to write a review of my work that can be included on our Thumbtack profile. Reviews are important because they help us get new customers.
+
+Thanks in advance!",,DJ,"{'null_value', 'Confirmation - Meeting', 'Hire'}","{'null_value', 'Confirmation - Meeting', 'Hire'}","{'null_value', 'Confirmation - Meeting', 'Hire'}","{'Confirmation - Meeting', 'Hire'}","{'Confirmation - Meeting', 'Hire'}","Hi Kathie,
+
+This is Enda your disc jockey. Chuck and I would really appreciate you taking a moment to write a review of my work that can be included on our Thumbtack profile. Reviews are important because they help us get new customers.
+
+Thanks in advance!",0,145 days 13:17:36.032174000,145.0,3493.29,False,1,0
+40,43225206,,2017-08-18 16:05:18.639235,Customer,"Hi [PERSON_NAME]/[PERSON_NAME],
+
+Can someone please call me? Your phone number does not have voicemail and I would like to schedule service again. We are supposed to be on your bimonthly plan. 
+
+Thanks,
+[PERSON_NAME] 
+[PHONE_NUMBER]",,Pest Control Services,"{'Scheduling - Meeting or Job', 'null_value', 'Follow-up', 'Contact Information', 'Confirmation - Contact'}","{'Scheduling - Meeting or Job', 'null_value', 'Follow-up', 'Contact Information', 'Confirmation - Contact'}","{'Scheduling - Meeting or Job', 'null_value', 'Follow-up', 'Contact Information', 'Confirmation - Contact'}","{'Scheduling - Meeting or Job', 'Follow-up', 'Contact Information', 'Confirmation - Contact'}","{'Scheduling - Meeting or Job', 'Follow-up', 'Contact Information', 'Confirmation - Contact'}","Hi Candace/Todd,
+
+Can someone please call me? Your phone number does not have voicemail and I would like to schedule service again. We are supposed to be on your bimonthly plan. 
+
+Thanks,
+Christopher Simpson 
+850 686 3564",1,26 days 14:18:15.263761000,26.0,638.3,False,1,0
+1099,58600549,,2017-08-02 17:19:08.848750,Pro,"Hi [PERSON_NAME], I'm just going through my list of active requests and wanted to check in to see if you still needed engagement photos?",,Engagement Photography,"{'Follow-up', 'null_value'}","{'Follow-up', 'null_value'}","{'Follow-up', 'null_value', 'Job Details'}",{'Follow-up'},"{'Job Details', 'Follow-up'}","Hi Anna, I'm just going through my list of active requests and wanted to check in to see if you still needed engagement photos?",1,77 days 13:27:26.935617000,77.0,1861.46,False,1,1
+3446,61451342,,2017-07-26 04:00:07.528968,Pro,"Hi [PERSON_NAME],
+
+I'd really appreciate you taking a few minutes to write a review of my work that I can include on my Thumbtack profile. Reviews are important because they help me get new customers.
+
+Thanks in advance!",,Singing Lessons,{'null_value'},{'null_value'},{'null_value'},set(),set(),"Hi Kara,
+
+I'd really appreciate you taking a few minutes to write a review of my work that I can include on my Thumbtack profile. Reviews are important because they help me get new customers.
+
+Thanks in advance!",0,30 days 08:57:58.259455000,30.0,728.97,False,1,0
+14731,63007293,,2017-09-13 20:14:46.638714,Pro,Still interested in doing pictures?,,Portrait Photography,"{'Follow-up', 'null_value'}","{'Follow-up', 'null_value'}","{'Follow-up', 'null_value'}",{'Follow-up'},{'Follow-up'},Still interested in doing pictures?,1,54 days 04:40:33.967166000,54.0,1300.68,False,1,0
+7122,59959068,,2017-09-19 04:00:07.190447,Pro,"Hi [PERSON_NAME],
+
+I'd really appreciate you taking a few minutes to write a review of my work that I can include on my Thumbtack profile. Reviews are important because they help me get new customers.
+
+Thanks in advance!",,Local Moving (under 50 miles),"{'null_value', 'Confirmation - Meeting', 'Hire'}","{'null_value', 'Hire'}","{'null_value', 'Confirmation - Meeting', 'Hire'}","{'Confirmation - Meeting', 'Hire'}","{'Confirmation - Meeting', 'Hire'}","Hi Mike,
+
+I'd really appreciate you taking a few minutes to write a review of my work that I can include on my Thumbtack profile. Reviews are important because they help me get new customers.
+
+Thanks in advance!",0,55 days 10:48:15.084203000,55.0,1330.8,False,1,0
+2627,60508851,,2017-08-05 15:49:10.661387,Customer,Do you want to come by and give us a quote?,,Interior Painting,"{'Price', 'null_value'}","{'Price', 'null_value'}","{'Scheduling - Meeting or Job', 'Price', 'null_value'}",{'Price'},"{'Scheduling - Meeting or Job', 'Price'}",Do you want to come by and give us a quote?,0,54 days 14:01:09.732263000,54.0,1310.02,False,1,0
+2622,60498142,,2017-12-14 18:38:58.771004,Pro,"Hi [PERSON_NAME]'m just emailing to see if you still need anything.  Please feel free to contact me if you have any questions. 
+
+- Steven
+[LOCATION]
+www.[LOCATION].com",,MC and Host Services,"{'Scheduling - Meeting or Job', 'Follow-up', 'null_value'}","{'Location', 'Follow-up', 'null_value'}","{'Follow-up', 'null_value'}",{'Follow-up'},"{'Location', 'Scheduling - Meeting or Job', 'Follow-up'}","Hi Peter   I'm just emailing to see if you still need anything.  Please feel free to contact me if you have any questions. 
+
+- Steven
+Magical Memories Entertainment
+www.mme123.com",1,45 days 18:44:53.231431000,45.0,1098.75,False,1,1
+11255,58648923,,2017-07-25 15:20:47.761000,Pro,"Good morning [PERSON_NAME], have you been helped with this? I'm here to give you a hand!",,Window Cleaning,"{'Follow-up', 'null_value'}","{'Follow-up', 'null_value'}","{'Follow-up', 'null_value'}",{'Follow-up'},{'Follow-up'},"Good morning Patricia, have you been helped with this? I'm here to give you a hand!",1,63 days 01:40:03.883866000,63.0,1513.67,False,1,0
